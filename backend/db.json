@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "Palmeiras é gigante!!",
+      "autoria": "Zé Roberto",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "Raissa é top",
+      "autoria": "Fabio Pereira",
+      "modelo": "modelo2",
+      "id": 7
+    },
+    {
+      "conteudo": "Você atingirá o sucesso quando apresentar com orgulho as cicatrizes que adquiriu ao longo da sua jornada.",
+      "autoria": "Pensador",
+      "modelo": "modelo3",
+      "id": 8
+    }
+  ]
+}
